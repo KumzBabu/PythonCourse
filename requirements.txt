@@ -1,0 +1,30 @@
+# ============================================================
+# Python Intensive — All Dependencies
+# Install: pip install -r requirements.txt
+# ============================================================
+
+# ── Data Wrangling (Module 08) ────────────────
+pandas>=2.1.0
+numpy>=1.26.0
+matplotlib>=3.8.0        # optional — for visualisation
+seaborn>=0.13.0          # optional — statistical plots
+
+# ── HTTP & APIs (Module 09) ───────────────────
+requests>=2.31.0
+python-dotenv>=1.0.0     # load .env files for API keys
+
+# ── Databases (Module 10) ────────────────────
+# sqlite3 is built-in — no install needed
+
+# ── Async HTTP (Module 13 + Capstone) ─────────
+aiohttp>=3.9.0
+
+# ── Testing (Module 12) ───────────────────────
+pytest>=7.4.0
+pytest-cov>=4.1.0
+pytest-asyncio>=0.23.0
+
+# ── Optional nice-to-haves ────────────────────
+rich>=13.0.0             # beautiful terminal output
+ipython>=8.0.0           # better interactive shell
+jupyterlab>=4.0.0        # notebook environment

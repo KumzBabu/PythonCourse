@@ -1,0 +1,19 @@
+# ── Core ──────────────────────────────────────
+requests>=2.31.0
+pandas>=2.1.0
+numpy>=1.26.0
+
+# ── Async HTTP ────────────────────────────────
+aiohttp>=3.9.0
+
+# ── Database ──────────────────────────────────
+# sqlite3 is built-in — no install needed
+
+# ── Testing ───────────────────────────────────
+pytest>=7.4.0
+pytest-cov>=4.1.0
+pytest-asyncio>=0.23.0
+
+# ── Utilities ─────────────────────────────────
+python-dotenv>=1.0.0
+rich>=13.0.0        # beautiful terminal output (optional)

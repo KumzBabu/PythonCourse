@@ -1,0 +1,26 @@
+id,name,age,department,salary,hire_date,performance_score,city
+1,Alice Johnson,32,Engineering,95000,2019-03-15,4.5,San Francisco
+2,Bob Smith,28,Marketing,62000,2021-07-01,3.8,New York
+3,Carol White,45,Engineering,120000,2015-11-20,4.9,San Francisco
+4,David Brown,35,Sales,75000,2020-02-10,3.5,Chicago
+5,Eve Davis,29,Engineering,88000,2022-01-05,4.2,Austin
+6,Frank Miller,52,Management,145000,2010-06-30,4.7,New York
+7,Grace Lee,38,Marketing,71000,2018-09-14,4.0,Los Angeles
+8,Henry Wilson,41,Sales,82000,2017-04-22,3.9,Chicago
+9,Iris Martinez,26,Engineering,79000,2023-03-01,4.1,Austin
+10,Jack Taylor,33,HR,58000,2020-08-19,3.6,New York
+11,Karen Anderson,47,Management,135000,2012-05-07,4.8,San Francisco
+12,Leo Thomas,31,Engineering,92000,2019-11-11,4.3,Austin
+13,Mia Jackson,36,Marketing,68000,2021-03-25,3.7,Los Angeles
+14,Noah White,43,Sales,89000,2016-07-08,4.1,Chicago
+15,Olivia Harris,27,Engineering,81000,2022-09-15,4.0,San Francisco
+16,Paul Martinez,39,HR,61000,2019-01-30,3.5,New York
+17,Quinn Robinson,34,Marketing,73000,2020-12-01,4.2,Los Angeles
+18,Rachel Clark,48,Management,142000,2011-08-16,4.6,Chicago
+19,Sam Lewis,30,Engineering,86000,2021-06-20,4.4,Austin
+20,Tina Walker,55,Management,158000,2008-03-10,4.9,San Francisco
+21,Uma Hall,37,Sales,78000,2018-11-05,3.8,New York
+22,Victor Allen,44,Engineering,110000,2014-02-28,4.7,San Francisco
+23,Wendy Young,32,Marketing,65000,2022-04-12,3.9,Los Angeles
+24,Xavier King,28,Sales,71000,2023-01-09,3.4,Chicago
+25,Yara Wright,41,HR,63000,2017-09-23,4.0,New York
